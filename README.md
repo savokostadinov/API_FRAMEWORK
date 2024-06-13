@@ -39,6 +39,7 @@ To run the tests, use:
 ```bash
 npm test
 ```
+npm test is a command used in Node.js projects to execute automated tests defined within the project. It is typically configured in the package.json file under the "scripts" section. When you run npm test in the terminal, npm looks for a corresponding script command, often associated with a testing framework like Jest, Mocha, or Jasmine.
 
 - **Writing Tests:**
 
