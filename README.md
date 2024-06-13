@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
     npm install
     ```
 
-    ## Usage
+## Usage
 
 ### Running Tests
 
