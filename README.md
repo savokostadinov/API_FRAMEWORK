@@ -20,8 +20,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone ???
-    cd ???
+    git clone https://github.com/nnikolikj/API_FRAMEWORK
+    cd API_FRAMEWORK
     ```
 
 2. **Install dependencies:**
