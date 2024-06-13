@@ -79,5 +79,5 @@ docker-compose up
 after that to start the test we execute
 
 ```bash
- docker compose exec -T mer_be bash -c "npm test"
+ docker compose exec -T metergram_be bash -c "npm test"
 ```
